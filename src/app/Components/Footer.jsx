@@ -1,7 +1,6 @@
-import Catlinks from "./Catlinks"
+import Catlinks from "./CatLinks"
 import SocialIcons from "./SocialIcons"
-
-import PageLinks from "./pagelinks";
+import PageLinks from "./PageLinks"
 
 
 export default function Footer() {
