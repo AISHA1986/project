@@ -15,7 +15,7 @@ export default function page() {
            <p className='h-7 w-15 bg-red-300 font-bold'>Food</p>
            </div>
            <div className="absolute top-0 right-0 p-48 text-4xl" >
-           <CiBookmark  className='rounded-full border-2 border-white bg-blue-400'/>
+           <CiBookmark className='rounded-full border-2 border-white bg-blue-400'/>
            </div>
            <div className="absolute bottom-0 left-0 text-white mb-2">
            <p className='font-bold text-6xl ml-44 h-32 w-15 bg-black-300 '>Exploring the vibrant world <br />  of great taste</p>
