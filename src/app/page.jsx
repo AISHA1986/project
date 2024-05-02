@@ -17,8 +17,8 @@ export default function page() {
            <div className="absolute top-0 right-0 p-48 text-4xl" >
            <CiBookmark  className='rounded-full border-2 border-white bg-blue-400'/>
            </div>
-           <div className="absolute bottom-0 left-0 text-black mb-2">
-           <p className='font-bold text-6xl ml-44 h-32 w-15 bg-red-300 '>Exploring the vibrant world <br />  of great taste</p>
+           <div className="absolute bottom-0 left-0 text-white mb-2">
+           <p className='font-bold text-6xl ml-44 h-32 w-15 bg-black-300 '>Exploring the vibrant world <br />  of great taste</p>
            </div>
            </Link>
         </div>
@@ -38,7 +38,7 @@ export default function page() {
           <div>
             <Link href='/tech'>
             <Image src='/pcs.jpg' alt='fun' width='800' height='100' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>Application of conceptual knowledge</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-red-300">tech</div>
               <div className='flex gap-4'>
@@ -51,7 +51,7 @@ export default function page() {
           <div>
             <Link href='/home-and-decor'>
             <Image src='/home1.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>making an  empty space alive </span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[430px] left-5 box-border unicode-isolate bg-orange-400">home and decor</div>
               <div className='flex gap-4'>
@@ -65,7 +65,7 @@ export default function page() {
           <div>
             <Link href='/home-and-decor2'>
             <Image src='/home3.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>The Art of Game Design</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[440px] left-5 box-border unicode-isolate bg-red-300">home and decor</div>
               <div className='flex gap-4'>
@@ -78,7 +78,7 @@ export default function page() {
           <div>
             <Link href='/food2'>
             <Image src='/food3.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>Inclusive Education- Meeting the Needs of <br /> Every Student</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-fuchsia-400">food</div>
               <div className='flex gap-4'>
@@ -93,7 +93,7 @@ export default function page() {
           <div>
             <Link href='/education'>
             <Image src='/study.jpg' alt='fun' width='800' height='100' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>Personalized Learning- The Future of Education</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[480px] left-5 box-border unicode-isolate bg-fuchsia-400">education</div>
               <div className='flex gap-4'>
@@ -106,7 +106,7 @@ export default function page() {
           <div>
             <Link href='/tech2'>
             <Image src='/pcs.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>The Future of Transportation Technology</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[480px] left-5 box-border unicode-isolate bg-yellow-400">tech</div>
               <div className='flex gap-4 mt-6'>
@@ -119,7 +119,7 @@ export default function page() {
           <div>
             <Link href='/entertaiment'>
             <Image src='/entertaiment3.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>The Science of Performance</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-blue-400">entertaiment</div>
               <div className='flex gap-4'>
@@ -132,7 +132,7 @@ export default function page() {
           <div>
             <Link href='/fashion'>
             <Image src='/fashion2.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>Fashion Trends- Past, Present, and Future</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[490px] left-5 box-border unicode-isolate bg-green-400">Fashion</div>
               <div className='flex gap-4'>
@@ -150,7 +150,7 @@ export default function page() {
           <div className='grid lg:grid-cols-2 sm:grid-cols-1 grid-rows-1 gap-5'>
             <Link href='/fashion2'>
             <Image src='/fashion3.jpg' alt='art' width='800' height='400' className='h-[480px] w-[1000px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline ml-40'>Haute Couture- The Evolution of High Fashion</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-green-400">Fashion</div>
               <div className='flex gap-4 justify-center items-center'>
@@ -163,7 +163,7 @@ export default function page() {
           <div>
             <Link href='/tech2'>
             <Image src='/pcs3.jpg' alt='technology' width='800' height='400'  className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline ml-52' >The Quantum Computing Revolution</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-yellow-400">tech</div>
               <div className='flex gap-4 justify-center items-center'>
@@ -196,7 +196,7 @@ export default function page() {
           <div>
             <Link href='/travel'>
             <Image src='/travel3.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline ml-16'> A Comprehensive Guide</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-blue-400">travel</div>
               <div className='flex gap-4'>
@@ -209,7 +209,7 @@ export default function page() {
           <div>
             <Link href='/education2'>
             <Image src='/education4.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-black-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline ml-28 mt-10'>Exploring Virtual Reality Gaming</span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-red-300">education</div>
               <div className='flex gap-4'>
@@ -222,7 +222,7 @@ export default function page() {
           <div>
             <Link href='/travel2'>
             <Image src='/plane.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
-            <div className="relative bottom-0 left-0 text-red-400 mb-2">
+            <div className="relative bottom-0 left-0 text-blac-400 mb-2">
               <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline ml-16'>The Psychology of Learning- Insights for Educators</span>
               <div className="text-black p-4 text-xs leading-4 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-fuchsia-400">travel</div>
               <div className='flex gap-4'>
