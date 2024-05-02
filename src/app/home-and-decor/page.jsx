@@ -5,14 +5,14 @@ export default function page() {
   return (
     <div className=' w-[70%] ml-[180px] h-4/5 mt-[40px] sm:grid-cols-1'>
         <div className='flex gap-6'>
-        <p className='h-7 w-15 bg-red-300 font-bold'>Food</p>
+        <p className='h-7 w-15 bg-red-300 font-bold'>home-and-decor</p>
         <p>April 11, 2024</p>
         </div>
         <div>
-            <h1 className='font-bold text-4xl mt-6'>unleash the graet tast <br /> food</h1>
+            <h1 className='font-bold text-4xl mt-6'>Exploring the vibrant world <br /> homes</h1>
         </div>
         <div>
-            <Image src='/cake.jpg' alt='art' width='800' height='400' className='w-[100%] ml-[7px] mt-24 h-[600px]'/>
+            <Image src='/home1.jpg' alt='art' width='800' height='400' className='w-[100%] ml-[7px] mt-24 h-[600px]'/>
         </div>
         <div>
             <h2 className='font-bold mt-10 mb-4'>Up-coming business bloggers, you need to watch </h2>
@@ -28,10 +28,10 @@ export default function page() {
             <p className='mt-16'>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
         </div>
         <div className='w-[100%] ml-[7px] mt-10 h-[600px]'>
-
-
-        <iframe width="1100" height="600" src="https://www.youtube.com/embed/vI5w-fK25w4?si=3nLb7NIj38tRnmaH&amp;start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         
+         <iframe width="1100" height="600" src="https://www.youtube.com/embed/hRpxiDCZj8E?si=OzBbe5721pf3WNz4&amp;start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+         
         </div>
         <div className='mt-20'>
             <h2 className='font-bold'>10 tell-tale signs you need to get a new business</h2>

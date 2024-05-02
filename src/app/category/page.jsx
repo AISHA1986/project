@@ -2,22 +2,22 @@ import Link from "next/link";
 
 export const items = [
     {
-      id: 1,
-      title: "key to success",
-      category: "education",
-      author: "John Smith",
-      descriptions: [
-        "Education is the transmission of knowledge, skills, and character traits and manifests in various forms. Formal education occurs within a structured institutional framework, such as public schools, following a curriculum. Non-formal education also follows a structured approach but occurs outside the formal schooling system, while informal education entails unstructured learning through daily experiences. Formal and non-formal education are categorized into levels, including early childhood education, primary education, secondary education, and tertiary education. Other classifications focus on teaching methods, such as teacher-centered and student-centered education, and on subjects, such as science education, language education, and physical education. Additionally, the term education can denote the mental states and qualities of educated individuals and the academic field studying educational phenomena.",
-
-        "The precise definition of education is disputed, and there are disagreements about the aims of education and the extent to which education differs from indoctrination by fostering critical thinking. These disagreements impact how to identify, measure, and enhance various forms of education. Essentially, education socializes children into society by instilling cultural values and norms, equipping them with the skills necessary to become productive members of society. In doing so, it stimulates economic growth and raises awareness of local and global problems. Organized institutions play a significant role in education. For instance, governments establish education policies to determine the timing of school classes, the curriculum, and attendance requirements. International organizations, such as UNESCO, have been influential in promoting primary education for all children.",
-        
-        "Many factors influence the success of education. Psychological factors include motivation, intelligence, and personality. Social factors, such as socioeconomic status, ethnicity, and gender, are often associated with discrimination. Other factors encompass access to educational technology, teacher quality, and parental involvement.",
-        
-        "The primary academic field examining education is known as education studies. It delves into the nature of education, its objectives, impacts, and methods for enhancement. Education studies encompasses various subfields, including philosophy, psychology, sociology, and economics of education. Additionally, it explores topics such as comparative education, pedagogy, and the history of education.",
-        
-        "In prehistory, education primarily occurred informally through oral communication and imitation. With the emergence of ancient civilizations, the invention of writing led to an expansion of knowledge, prompting a transition from informal to formal education. Initially, formal education was largely accessible to elites and religious groups. The advent of the printing press in the 15th century facilitated widespread access to books, thus increasing general literacy. In the 18th and 19th centuries, public education gained significance, paving the way for the global movement to provide primary education to all, free of charge, and compulsory up to a certain age. Presently, over 90% of primary-school-age children worldwide attend primary school.",
-      ]
-    },
+    id: "1",
+  title: " A Journey of Lifelong Learning",
+  category:"education",
+  author: "Jennifer Smith",
+  publication_date: "2023-09-15",
+  descriptions: [
+    "Education is not merely the acquisition of knowledge; it is a transformative journey that shapes individuals and societies. In 'The Promise of Education: A Journey of Lifelong Learning,' Jennifer Smith delves into the profound impact of education on human development.",
+    "Smith explores education as a dynamic process that extends far beyond the confines of classrooms. Drawing on insights from psychology, sociology, and philosophy, she argues that education is a lifelong pursuit, encompassing formal schooling, informal learning experiences, and self-directed exploration.",
+    "The book traces the evolution of educational systems across history and cultures, shedding light on their successes, challenges, and potential. From ancient civilizations to modern educational reforms, Smith examines the quest for knowledge as a fundamental human endeavor.",
+    "Through captivating narratives and thought-provoking analysis, 'The Promise of Education' challenges readers to rethink traditional notions of schooling and embrace a broader vision of learning. Smith emphasizes the importance of fostering critical thinking, creativity, and adaptability in an ever-changing world.",
+    "Furthermore, the book addresses pressing issues facing contemporary education, such as access disparities, technological advancements, and the role of educators in nurturing holistic development. Smith advocates for inclusive, learner-centered approaches that empower individuals to thrive in diverse contexts.",
+    "Ultimately, 'The Promise of Education' celebrates the transformative power of learning and underscores its pivotal role in shaping a more equitable, prosperous future for all."
+  ]
+},
+      
+    
     {
       id: 2,
       title: "prevailing customs in dress",
@@ -31,69 +31,25 @@ export const items = [
     },
     {
       id: 3,
-      title: "unleash taste",
-      category: "food",
-      author: "encyclopedia",
-      descriptions: [
-        "Food is what people, plants and animals eat to live. Every organism needs energy to carry on with the process of living which comes from food. Food usually comes from animals and plants. It is eaten by living things to provide energy and nutrition.[1] Food contains the nutrition that people and animals need to be healthy. The consumption of food is normally enjoyable to humans.",
-
-       "It contains protein, fat, carbohydrates, vitamins, water and minerals.[2] Liquids used for energy and nutrition are often called drinks If someone cannot afford food they go hungry.",
-        
-        "Food for humans is mostly made through farming or gardening. It includes animal and vegetable sources. Some people refuse to eat food from animal origin, like meat, eggs, and products with milk in them. Not eating meat is called vegetarianism. Not eating or using any animal products is called veganism.",
-        
-        "Basic foods consumed by humans.",
-        "Plant source	Animal source.",
-        "Fruit.",
-        "Vegetables.",
-        "Grains.",
-        "Seeds.",
-        "Legumes (Beans, peas, lentils, etc.).",
-        "Herbs.",
-        "Spices.",
-        "Meat.",
-        "Seafood.",
-        "Eggs.",
-
-        "Dairy products.",
-        "Food produced by farmers or gardeners can be changed by industrial processes (the food industry). Processed food usually contains several natural ingredients and food additives (such as preservatives, antioxidants, emulsifiers, flavor enhancers). For example, bread is processed food.[3].",
-        
-       "Food can also be prepared and served in restaurants or refectory (in particular for children in school).",
-        
-        "The utensils used may be a plate, knife, fork, chopsticks, spoon, bowl, or spork.",
-        
-        "Many people do not grow their own food. They have to buy food that was grown by someone else. People buy most of their food in shops or markets. But some people still grow most or all of their own food.",
-        
-        "People may buy food and take it home to cook it. They may buy food that is ready to eat from a street vendor or a restaurant.",
-        
-        "Other countries have their own way of eating food. An example of an ethnic food is Mexican food.",
-        
-        "Production of food.", 
-        "Originally, people got food as hunter-gatherers. The agricultural revolution changed that. Farmers grew crops including those invented and improved by selective breeding.[4] These improvements, for example the invention of maize, allowed feeding more people, and further improvements gave it a better taste.",
-        
-        "Food shortage has been a big problem throughout history. Many people do not have enough money to buy the food that they need. Bad weather or other problems sometimes destroy the growing food in one part of the world. When people do not have enough food, we say that they are hungry. If they do not eat enough food for a long time, they will become sick and die from starvation. In areas where many people do not have enough food, we say that there is famine there.",
-        
-        "Food and water can make people sick if it is contaminated by microorganisms, bad metals, or chemicals.",
-        
-        "If people do not eat the right foods, they can become sick.",
-        
-        "If people do not eat enough protein, they get the disease called kwashiorkor.",
-        "If they do not eat enough vitamin B1 (thiamine), they get the disease called beriberi.",
-        "If they do not eat enough vitamin C, they get the disease called scurvy.",
-        "If children do not eat enough vitamin D, they get the disease called rickets.",
-        "People may often have a variety of eating disorders that cause them to either eat too much, or not be able to eat certain things or amounts. Common diseases like Coeliac disease or food allergies cause people to experience ill effects from consuming certain foods that are normally safe. If people eat too much food, they can become overweight or obese. This causes numerous health problems. On the other hand, eating too little food, from lack of access or anorexia could cause malnutrition. Therefore, people have to balance the amount, the nutrition, and the type of food to be healthy.",
-        
-        "Food in religions.",
-        "Many cultures or religions have food taboos. That means they have rules what people should not eat, or how the food has to be prepared",
-        "Examples of religious food rules are the Kashrut of Judaism and the Halal of Islam, that say that pig meat cannot be eaten. In Hinduism, eating beef is not allowed. Some Christians are vegetarian (someone who does not eat meat) because of their religious beliefs. For example, Seventh-day Adventist Church recommends vegetarianism.",
-        
-        "In addition, sometime beliefs do not relate to the religion but belong to the culture. For example, som."
+      title: " The Perfect Chocolate Cake Recipe",
+      category: "Food",
+      author: "Sarah Johnson",
+      publication_date: "2024-04-28",
+      descriptions: ["Indulge in the ultimate chocolate experience with our perfected chocolate cake recipe. This moist and rich dessert is the epitome of chocolate bliss, guaranteed to satisfy even the most discerning sweet tooth. Whether you're celebrating a special occasion or simply craving a decadent treat, this chocolate cake is sure to impress. Made with premium cocoa powder and luxurious chocolate, each bite is a symphony of flavors and textures.",
+      
+        "Begin your chocolate adventure by preheating your oven to 350°F (175°C) and greasing and flouring two 9-inch round cake pans. In a large mixing bowl, sift together 2 cups of all-purpose flour, 2 cups of granulated sugar, 3/4 cup of unsweetened cocoa powder, 2 teaspoons of baking powder, 1 1/2 teaspoons of baking soda, and 1 teaspoon of salt. Mix well to combine.",
+        "In a separate bowl, whisk together 2 large eggs, 1 cup of whole milk, 1/2 cup of vegetable oil, and 2 teaspoons of vanilla extract until smooth. Gradually add the wet ingredients to the dry ingredients, mixing until the batter is smooth and well combined. Stir in 1 cup of boiling water, taking care not to overmix.",
+        "Divide the batter evenly between the prepared cake pans and smooth the tops with a spatula. Bake in the preheated oven for 30 to 35 minutes, or until a toothpick inserted into the center of the cakes comes out clean. Remove from the oven and allow the cakes to cool in the pans for 10 minutes before transferring them to a wire rack to cool completely.",
+        "While the cakes are cooling, prepare the chocolate ganache frosting. In a heatproof bowl, combine 8 ounces of chopped semi-sweet chocolate and 1 cup of heavy cream. Microwave in 30-second intervals, stirring between each interval, until the chocolate is melted and the mixture is smooth. Let the ganache cool to room temperature, then refrigerate for 1 to 2 hours, or until it reaches a spreadable consistency.",
+        "Once the cakes are completely cool and the ganache has reached the desired consistency, assemble the cake by placing one layer on a serving platter and spreading a generous layer of ganache over the top. Carefully place the second layer on top and frost the entire cake with the remaining ganache. For added indulgence, decorate with chocolate shavings or fresh berries.",
+        "Slice, serve, and enjoy the chocolatey delight of this decadent cake. With its rich flavor and luxurious texture, this chocolate cake is sure to become a favorite for any chocolate lover.",
       ]
     },
     {
       id: 4,
       title: "explore",
       category: "travel",
-      author: "Sophia Lee",
+      author: "Jennifer Smith",
       descriptions: [
         "ravel is the activity of going from one place to another place. When a person makes the same trip every day to work or school, this type of traveling is usually called commuting. Some people travel to other cities as part of their job. This is called business travel. When many people travel to a distant place to stay, it is called human migration.",
 
@@ -113,8 +69,8 @@ export const items = [
     {
       id: 5,
       title: "technology application of concenptual knowledge",
-      category: "teach",
-      author: "Michael Johnson",
+      category: "tech",
+      author: "Emily Jones",
       descriptions: [
         "Technology is the application of conceptual knowledge for achieving practical goals, especially in a reproducible way.[1] The word technology can also mean the products resulting from such efforts,[2][3] including both tangible tools such as utensils or machines, and intangible ones such as software. Technology plays a critical role in science, engineering, and everyday life.",
 
@@ -129,7 +85,7 @@ export const items = [
       id: 6,
       title: "interest of the audience",
       category: "entertaiment",
-      author: "Sarah Williams",
+      author: "Emily Joness",
       descriptions: [
         "Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. It can be an idea or a task, but it is more likely to be one of the activities or events that have developed over thousands of years specifically for the purpose of keeping an audience's attention.",
 
@@ -149,9 +105,9 @@ export const items = [
     },
     {
       id: 7,
-      title: "comfortable welcoming living space",
-      category: "home and decor",
-      author: "Alex Rodriguez",
+      title: "welcoming living space",
+      category: "home-and-decor",
+      author: "Emily Jones",
       descriptions: [
         "Home decor is clearing and creating living spaces that are visually appealing and more attractive to the human eye. Designing and decorating our homes is something we can easily envision. We all know what our ideal home looks like, and often it's making this vision a reality that's difficult to achieve.",
 
@@ -169,7 +125,7 @@ export const items = [
       id: 8,
       title: "clothing and modesty",
       category: "fashion",
-      author: "Jessica White",
+      author: "Jennifer Smith",
       descriptions: [
         "fashion and Clothing are defined as a form of communication and a sign of that specific individual's cultural background. In this presentation, I will break down the difference between the material and cultural functions of fashion.",
 
@@ -211,7 +167,7 @@ export const items = [
       id: 9,
       title: "Sustainable Fashion- Designing for the Future",
       category: "fashion",
-      author: "Daniel Martinez",
+      author: "Jennifer Smith",
       descriptions: [
         "Explores sustainable practices in the fashion industry.",
         "Highlights designers and brands leading the way in eco-friendly fashion.",
@@ -220,9 +176,9 @@ export const items = [
     },
     {
       id: 10,
-      title: "Personalized Learning- The Future of Education",
+      title: "getting attention of the audience",
       category: "entertaiment",
-      author: "Jennifer Adams",
+      author: "Emily Jones",
       descriptions: [
         "Investigates personalized learning approaches and their impact on student outcomes.",
         "Explores the role of adaptive learning technologies in tailoring education to individual needs.",
@@ -233,7 +189,7 @@ export const items = [
         id: 11,
         title: "amazing taste",
         category: "food",
-        author: "Jessica Miller",
+        author: "Sarah Johnson",
         descriptions: [
           "food provides our bodies with what they need .",
           
@@ -263,7 +219,7 @@ export const items = [
         id: 12,
         title: "beauty of nature",
         category: "travel",
-        author: "Andrew Clark",
+        author: "Sarah Johnson",
         descriptions: [
           "any people travel for different purposes. Whether it is for a business trip or a holiday trip, we see people travelling often. Some people prefer a hilly area for travelling while the others like travelling to places with beaches. In this travelling essay, we will look at the importance of travelling and how it has changed ever since the old times.",
 
@@ -297,8 +253,8 @@ export const items = [
       {
         id: 13,
         title: "living space that will suits your taste",
-        category: "home and decore",
-        author: "Robert Johnson",
+        category: "Home-and-decor2",
+        author: "Sarah Johnson",
         descriptions: [
           "short for home decoration, interior décor encompasses items and you guessed it, decorations, that make your home look nice. This can include a range of items such as furniture, art, plants, and accessories.",
 
@@ -332,7 +288,7 @@ export const items = [
         id: 14,
         title: "key to sucess",
         category: "education",
-        author: "Elena Garcia",
+        author: "Sarah Johnson",
         descriptions: [
           "the term education originates from the Latin words educare, meaning to bring up, and educere, meaning to bring forth. The definition of education has been explored by theorists from various fields. Many agree that education is a purposeful activity aimed at achieving goals like the transmission of knowledge, skills, and character traits. However, extensive debate surrounds its precise nature beyond these general features. One approach views education as a process occurring during events such as schooling, teaching, and learning. Another perspective perceives education not as a process but as the mental states and dispositions of educated individuals resulting from this process. Furthermore, the term may also refer to the academic field that studies the methods, processes, and social institutions involved in teaching and learning. Having a clear understanding of the term is crucial when attempting to identify educational phenomena, measure educational success, and improve educational practices.",
 

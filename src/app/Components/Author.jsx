@@ -1,6 +1,7 @@
 import { items } from "../page"
 
-export default function CategorySlug({params}) {
+
+export default function Author({params}) {
     const filteredCat = items.filter(item => item.title.split(' ').join('-') == params.slug)
     
   return (
@@ -12,7 +13,7 @@ export default function CategorySlug({params}) {
         </section>
             <h2 className=" text-2xl ">{item.title}</h2>
 
-            {item.descriptions.map(desc => (
+            {item.author.map(desc => (
               <div className=" text-2xl ">
                 <p>{desc}</p>
               </div>

@@ -1,9 +1,9 @@
-import { Cookie } from "next/font/google";
+import { Play, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import Navbar from "./Components/Navbar"; 
 import Footer from "./Components/Footer";
 
-const cook = Cookie({ subsets: ["latin"], weight:"400"});
+const cook = Playfair_Display({ subsets: ["latin"], weight:"400"});
 
 export const metadata = {
   title: "blogging platform",

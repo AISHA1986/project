@@ -9,10 +9,10 @@ export default function Footer() {
     <footer className="h-[60vh] bg-slate-900 text-white flex gap-20 mt-6 pt-10 ">
 
     <div className=" capitalize ml-10">
-        <p className=" text-2xl flex" > Efosky
+        <p className=" text-2xl flex" > AISHA
   </p>
         
-        <p> welcome to the home of fashion where<br/>
+        <p> welcome to the home of AISHA where<br/>
          your comfort is our desire
         </p>
         <SocialIcons />
