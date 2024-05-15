@@ -1,27 +1,23 @@
 import { items } from "../page"
+import Link from "next/link"
 
 export default function CategorySlug({params}) {
-    const filteredCat = items.filter(item => item.title.split(' ').join('-') == params.slug)
+    const filteredCat = items.filter(item => item.category == params.slug)
     
   return (
-    <div className="w-4/5 m-auto my-5">
+    <div className="grid grid-cols-3 gap-4">
     {filteredCat.map(item =>(
-      <div key={item.id}>
-
-        <section className={`text-black bg-cover h-[700px]`} style={{backgroundImage: `url(/id${item.id}.jpg)`}}>
-        </section>
-            <h2 className=" text-2xl ">{item.title}</h2>
-
-            {item.descriptions.map(desc => (
-              <div className=" text-2xl ">
-                <p>{desc}</p>
-              </div>
-            ))}
+      
+      <Link key={item.id} href={`/blog/${item.title.split(' ').join('-')}`} title={item.title}>
+      <section  className={`p-4 text-black bg-cover h-[300px] mt-11`} style={{backgroundImage: `url(/id${item.id}.jpg)`}}>
+          <h2 className='p-4 bg-orange-700 w-4/5 text-gray-300 capitalize'>{item.title}</h2>
+      </section>
+    </Link>
 
 
-      </div>
-    ))}
-    
+))}
 </div>
+    
+
   )
 }

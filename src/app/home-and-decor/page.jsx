@@ -15,17 +15,17 @@ export default function page() {
             <Image src='/home1.jpg' alt='art' width='800' height='400' className='w-[100%] ml-[7px] mt-24 h-[600px]'/>
         </div>
         <div>
-            <h2 className='font-bold mt-10 mb-4'>Up-coming business bloggers, you need to watch </h2>
-            <p>The printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <h2 className='font-bold mt-10 mb-4'>Up-coming home bloggers, you need to watch </h2>
+            <p>Interior decor plays a pivotal role in shaping the ambiance and functionality of living spaces, reflecting the personal tastes and lifestyle preferences of occupants. From minimalist and contemporary to rustic and eclectic, the myriad styles of interior design offer endless possibilities for creating environments that are both aesthetically pleasing and conducive to comfort and well-being. Key elements such as color schemes, furniture selection, lighting, and accessorizing contribute to the overall harmony and visual appeal of a room, transforming it into a sanctuary that exudes warmth and personality.</p>
         </div>
         <div className='mt-14'>
             <ol>
-                <li><span className='font-bold'>.</span> The standard chunk of Lorem Ipsum used since the 1500s.</li>
-                <li><span className='font-bold'>.</span> reproduced below for those interested.</li>
-                <li><span className='font-bold'>.</span> It is a long established fact that a reader will.</li>
-                <li><span className='font-bold'>.</span> distracted by the readable content of a page when looking at its layout</li>
+                <li><span className='font-bold'>.</span> some importance of home decor .</li>
+                <li><span className='font-bold'>.</span> Personal Expression: Home decor allows individuals to express their personalities, tastes, and interests.</li>
+                <li><span className='font-bold'>.</span> Comfort and Well-being: A well-designed home promotes comfort and enhances overall well-being.</li>
+                <li><span className='font-bold'>.</span> Social Connection: Home decor plays a pivotal role in facilitating social connection and fostering meaningful relationships.</li>
             </ol>
-            <p className='mt-16'>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+            <p className='mt-16'>Color psychology plays a significant role in interior decor, as different hues evoke distinct emotions and moods. For instance, serene shades of blue and green are often employed in bedrooms and living areas to promote relaxation and tranquility, while vibrant tones like red and yellow inject energy and vitality into spaces such as kitchens and dining rooms. The strategic use of color can also visually alter the perception of room size and shape, making small spaces appear larger or creating intimate atmospheres in expansive areas.</p>
         </div>
         <div className='w-[100%] ml-[7px] mt-10 h-[600px]'>
         
@@ -34,14 +34,14 @@ export default function page() {
          
         </div>
         <div className='mt-20'>
-            <h2 className='font-bold'>10 tell-tale signs you need to get a new business</h2>
-            <p className='mt-4'>But because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+            <h2 className='font-bold'> signs you need to get an interior decor</h2>
+            <p className='mt-4'>Furniture selection is a fundamental aspect of interior decor, encompassing not only aesthetics but also functionality and comfort. From sofas and chairs to tables and storage units, each piece of furniture should be chosen with careful consideration of the room's layout and intended use. Modular and multifunctional furniture solutions are particularly popular in modern interior design, offering versatility and space-saving benefits for compact living spaces. Additionally, the materials and finishes of furniture pieces contribute to the overall style and ambiance of a room, whether it be the warmth of natural wood or the sleekness of metal and glass</p>
         </div>
         <div className='mt-14 bg-yellow-300 p-12'>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt.</p>
+            <p>Lighting design is an essential component of interior decor, as it influences the atmosphere and functionality of a space while accentuating architectural features and decor elements. Natural light is prized for its ability to create a sense of openness and connection to the outdoors, while artificial lighting fixtures such as chandeliers, pendants, and sconces serve both practical and decorative purposes. Task lighting, ambient lighting, and accent lighting are carefully layered to provide illumination where needed while adding depth and dimension to the overall design scheme.</p>
         </div>
         <div className='mt-16 mb-14'>
-            <p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.</p>
+            <p>Accessorizing is the final touch in interior decor, allowing homeowners to inject their personality and style into their living spaces through decorative objects, artwork, textiles, and plants. Accessories serve as the finishing touches that tie together the various elements of a room, adding visual interest and character. From statement-making art pieces to cozy throw pillows and rugs, accessories can be easily swapped out to refresh the look of a space and adapt to changing tastes and seasons. Ultimately, interior decor is a creative expression of individuality and lifestyle, transforming houses into homes that reflect the unique identities and stories of their inhabitants.</p>
         </div>
 </div>
 )

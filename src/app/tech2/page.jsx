@@ -9,23 +9,36 @@ export default function page() {
         <p>April 11, 2024</p>
         </div>
         <div>
-            <h1 className='font-bold text-4xl mt-6'>Exploring the vibrant world <br /> travel</h1>
+            <h1 className='font-bold text-4xl mt-6'>Exploring the vibrant world <br /> tech</h1>
         </div>
         <div>
             <Image src='/tech2.jpg' alt='art' width='800' height='400' className='w-[100%] ml-[7px] mt-24 h-[600px]'/>
         </div>
         <div>
-            <h2 className='font-bold mt-10 mb-4'>Up-coming business bloggers, you need to watch </h2>
-            <p>The printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <h2 className='font-bold mt-10 mb-4'>Up-coming tech bloggers, you need to watch </h2>
+            <p>Modern technology encompasses a vast array of advancements across various fields, shaping how we live, work, communicate, and interact with the world. Here's an overview of some key areas of modern technology</p>
         </div>
         <div className='mt-14'>
             <ol>
-                <li><span className='font-bold'>.</span> The standard chunk of Lorem Ipsum used since the 1500s.</li>
-                <li><span className='font-bold'>.</span> reproduced below for those interested.</li>
-                <li><span className='font-bold'>.</span> It is a long established fact that a reader will.</li>
+                <li><span className='font-bold'>.</span> Artificial Intelligence (AI):
+AI involves the development of computer systems that can perform tasks that typically require human intelligence, such as speech recognition, natural language processing, visual perception, and decision-making.
+Machine learning, a subset of AI, enables computers to learn from data and improve performance over time without explicit programming</li>
+                <li><span className='font-bold'>.</span> Internet of Things (IoT):
+IoT refers to the network of interconnected devices embedded with sensors, software, and connectivity, enabling them to collect and exchange data.
+IoT applications span various domains, including smart homes, wearable devices, industrial automation, healthcare monitoring, and environmental monitoring</li>
+                <li><span className='font-bold'>.</span> 5G Technology:
+5G is the fifth generation of wireless technology for cellular networks, offering significantly faster data speeds, lower latency, and increased capacity compared to previous generations.
+5G technology enables new applications such as augmented reality (AR), virtual reality (VR), autonomous vehicles, and the Internet of Things.</li>
                 <li><span className='font-bold'>.</span> distracted by the readable content of a page when looking at its layout</li>
             </ol>
-            <p className='mt-16'>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+            <p className='mt-16'>Blockchain Technology:
+Blockchain is a decentralized and distributed ledger technology that records transactions across multiple computers in a secure and transparent manner.
+Blockchain technology underpins cryptocurrencies like Bitcoin and Ethereum, as well as applications in supply chain management, finance, healthcare, and voting systems.
+Biotechnology:
+Biotechnology involves the use of biological systems, organisms, or derivatives to develop products and technologies for various applications.
+Advances in biotechnology have led to breakthroughs in areas such as gene editing, personalized medicine, synthetic biology, and agricultural biotechnology.
+Quantum Computing:
+Quantum computing harnesses the principles of quantum mechanics to perform computations using quantum bits (qubits).</p>
         </div>
         <div className='w-[100%] ml-[7px] mt-10 h-[600px]'>
         <iframe width="1100" height="600" src="https://www.youtube.com/embed/OtRrVrHx7Do?si=RsfNC5A7SrRtk8zy&amp;start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -33,14 +46,25 @@ export default function page() {
         
         </div>
         <div className='mt-20'>
-            <h2 className='font-bold'>10 tell-tale signs you need to get a new business</h2>
-            <p className='mt-4'>But because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+            <h2 className='font-bold'>10 tell-tale signs you need to get a new tech</h2>
+            <p className='mt-4'>Technology has become deeply intertwined with every aspect of human society, bringing about numerous benefits across various domains. Here are some ways in which technology benefits human society</p>
         </div>
         <div className='mt-14 bg-yellow-300 p-12'>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt.</p>
+            <p>Overall, technology has the potential to significantly improve the quality of life, address societal challenges, and create a more equitable and sustainable future for humanity. However, it's essential to consider ethical, social, and environmental implications and ensure that technology is used responsibly and for the benefit of all.</p>
         </div>
         <div className='mt-16 mb-14'>
-            <p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.</p>
+            <p>Environmental Sustainability:
+Clean technologies, renewable energy sources, and eco-friendly innovations help mitigate environmental impact and promote sustainability.
+Smart energy grids, energy-efficient buildings, and electric vehicles reduce carbon emissions, conserve resources, and contribute to a greener future.
+Economic Growth and Innovation:
+Technological innovations drive economic growth, create new industries, and stimulate job creation.
+Entrepreneurship, startups, and venture capital investments fuel innovation ecosystems, driving forward progress and competitiveness in the global economy.
+Social Empowerment and Inclusion:
+Technology can empower marginalized communities, promote social inclusion, and amplify diverse voices.
+Accessible technologies, assistive devices, and inclusive design practices ensure equal participation and opportunities for people with disabilities.
+Crisis Response and Resilience:
+During emergencies, natural disasters, and crises, technology plays a crucial role in disaster preparedness, response, and recovery efforts.
+Emergency communication systems, GIS mapping tools, and social media platforms facilitate coordination, resource allocation, and community resilience.</p>
         </div>
 </div>
 )

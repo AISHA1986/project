@@ -12,20 +12,20 @@ export default function page() {
             <h1 className='font-bold text-4xl mt-6'>Exploring the vibrant world <br /> homes</h1>
         </div>
         <div>
-            <Image src='/home2.jpg' alt='art' width='800' height='400' className='w-[100%] ml-[7px] mt-24 h-[600px]'/>
+            <Image src='/camera.jpg' alt='art' width='800' height='400' className='w-[100%] ml-[7px] mt-24 h-[600px]'/>
         </div>
         <div>
-            <h2 className='font-bold mt-10 mb-4'>Up-coming business bloggers, you need to watch </h2>
-            <p>The printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <h2 className='font-bold mt-10 mb-4'>Up-coming home and decor bloggers, you need to watch </h2>
+            <p>Home decoration is an art form that allows individuals to transform their living spaces into personalized sanctuaries that reflect their unique tastes and preferences. From selecting furniture and accessories to choosing color schemes and arranging layouts, every aspect of home decoration contributes to the overall ambiance and aesthetic appeal of a home. Whether aiming for a cozy cottage retreat, a sleek modern oasis, or a vibrant eclectic haven, the possibilities for home decoration are endless, offering opportunities for creativity and self-expression.</p>
         </div>
         <div className='mt-14'>
             <ol>
-                <li><span className='font-bold'>.</span> The standard chunk of Lorem Ipsum used since the 1500s.</li>
-                <li><span className='font-bold'>.</span> reproduced below for those interested.</li>
-                <li><span className='font-bold'>.</span> It is a long established fact that a reader will.</li>
-                <li><span className='font-bold'>.</span> distracted by the readable content of a page when looking at its layout</li>
+                <li><span className='font-bold'>.</span> The importance of home decoration.</li>
+                <li><span className='font-bold'>.</span> Home serves as a sanctuary—a place of refuge and solace amidst the demands and stresses of daily life</li>
+                <li><span className='font-bold'>.</span>  each area of the home can be tailored to fulfill specific needs and provide moments of respite from the outside world.</li>
+                <li><span className='font-bold'>.</span>  each area of the home can be tailored to fulfill specific needs and provide moments of respite from the outside world</li>
             </ol>
-            <p className='mt-16'>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+            <p className='mt-16'>One of the key considerations in home decoration is establishing a cohesive design theme or style that ties together the various elements of a room or home. Whether inspired by a specific era, culture, or aesthetic concept, a cohesive design theme provides a guiding framework for selecting furniture, colors, patterns, and decorative accents that harmonize and complement one another. From traditional and transitional to contemporary and bohemian, the diversity of design styles allows individuals to create spaces that resonate with their sensibilities and lifestyles.</p>
         </div>
         <div className='w-[100%] ml-[7px] mt-10 h-[600px]'>
 
@@ -33,14 +33,14 @@ export default function page() {
       
         </div>
         <div className='mt-20'>
-            <h2 className='font-bold'>10 tell-tale signs you need to get a new business</h2>
-            <p className='mt-4'>But because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+            <h2 className='font-bold'>signs you need to get a home decor</h2>
+            <p className='mt-4'>Color plays a pivotal role in home decoration, influencing the mood, atmosphere, and perceived size of a room. Whether opting for soft neutrals, bold primaries, or soothing pastels, the strategic use of color can transform a space and evoke specific emotions and responses. Lighter hues tend to open up smaller rooms and create an airy, spacious feel, while darker tones add depth and drama to larger spaces. Additionally, accent colors can be used to infuse personality and visual interest into a room, whether through statement walls, decorative accessories, or vibrant textiles.</p>
         </div>
         <div className='mt-14 bg-yellow-300 p-12'>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt.</p>
+            <p>Furniture selection is another essential aspect of home decoration, as it determines the functionality, comfort, and visual impact of a space. From sofas and chairs to tables and storage units, each piece of furniture should be chosen with consideration of the room's layout, scale, and intended use. Multifunctional furniture solutions are particularly valuable in small or multi-purpose spaces, offering versatility and efficiency without sacrificing style. Additionally, mixing different furniture styles, materials, and finishes can add texture and dimension to a room, creating visual intrigue and personality.</p>
         </div>
         <div className='mt-16 mb-14'>
-            <p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.</p>
+            <p>Accessorizing is the final layer of home decoration, allowing individuals to add personality, warmth, and character to their living spaces through decorative objects, artwork, textiles, and plants. Accessories serve as the finishing touches that tie together the various design elements of a room, infusing it with style and personality. Whether through family heirlooms, travel souvenirs, or curated collections, accessories offer opportunities for storytelling and self-expression, transforming houses into homes that reflect the unique identities and experiences of their occupants..</p>
         </div>
 </div>
 )

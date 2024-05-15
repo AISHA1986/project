@@ -15,32 +15,34 @@ export default function page() {
             <Image src='/fashion6.jpg' alt='art' width='800' height='400' className='w-[100%] ml-[7px] mt-24 h-[600px]'/>
         </div>
         <div>
-            <h2 className='font-bold mt-10 mb-4'>Up-coming business bloggers, you need to watch </h2>
-            <p>The printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <h2 className='font-bold mt-10 mb-4'>Up-coming fashion bloggers, you need to watch </h2>
+            <p>Fashion serves as a dynamic and multifaceted cultural phenomenon, encompassing clothing, accessories, hairstyles, and personal grooming practices that reflect individual identity, societal values, and historical trends. From haute couture runways to street style fashion, the world of fashion is a vibrant tapestry of creativity, innovation, and self-expression that shapes and reflects the ever-evolving landscape of human culture and society</p>
         </div>
         <div className='mt-14'>
             <ol>
-                <li><span className='font-bold'>.</span> The standard chunk of Lorem Ipsum used since the 1500s.</li>
-                <li><span className='font-bold'>.</span> reproduced below for those interested.</li>
-                <li><span className='font-bold'>.</span> It is a long established fact that a reader will.</li>
-                <li><span className='font-bold'>.</span> distracted by the readable content of a page when looking at its layout</li>
+                <li><span className='font-bold'>.</span> The importance of fashion</li>
+                <li><span className='font-bold'>.</span>Self-Expression and Identity: Fashion provides individuals with a means of expressing their identities, personalities, and beliefs through clothing, accessories, and personal style choices.</li>
+                <li><span className='font-bold'>.</span> Cultural Expression and Heritage: Fashion serves as a reflection of cultural diversity and heritage, preserving and transmitting traditions, customs, and aesthetics across generations.</li>
+                <li><span className='font-bold'>Economic and Creative Industries: Fashion is a driving force behind economic growth and innovation, encompassing a vast industry that spans design, manufacturing, retail, and marketing.</span> </li>
             </ol>
-            <p className='mt-16'>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+            <p className='mt-16'>At its core, fashion is a form of self-expression and personal identity, allowing individuals to communicate their personalities, beliefs, and aspirations through the clothing they wear and the styles they adopt. Whether dressing for a special occasion, expressing cultural heritage, or making a statement of individuality, fashion offers a means of articulating one's identity and asserting agency over one's appearance and presentation to the world.</p>
         </div>
         <div className='w-[100%] ml-[7px] mt-10 h-[600px]'>
 
         <iframe width="1100" height="600" src="https://www.youtube.com/embed/y5Cm8b4pN-s?si=LPcima0XL0BQpISc&amp;start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        {/* <iframe width="1100" height="600" src="https://www.youtube.com/embed/UmzCWRylL8M?si=8CZy78cfChzwcL1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> */}
+       
         </div>
         <div className='mt-20'>
-            <h2 className='font-bold'>10 tell-tale signs you need to get a new business</h2>
-            <p className='mt-4'>But because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?</p>
+            <h2 className='font-bold'> signs you need to get a fashion designer</h2>
+            <p className='mt-4'>Moreover, fashion serves as a powerful vehicle for cultural expression and storytelling, reflecting the values, traditions, and aesthetics of diverse communities around the world. Through clothing, textiles, and adornments, different cultures communicate their histories, beliefs, and social hierarchies, preserving and transmitting cultural heritage across generations. From traditional garments worn in ceremonial rituals to contemporary fashion trends inspired by global fusion and cross-cultural exchange, fashion reflects the dynamic interplay between tradition and modernity, local and global influences</p>
         </div>
         <div className='mt-14 bg-yellow-300 p-12'>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt.</p>
+            <p>Fashion also plays a significant role in shaping social norms and perceptions, influencing how individuals are perceived and treated based on their appearance and attire. Clothing choices can convey social status, professional identity, and group affiliations, signaling belongingness to specific subcultures, communities, or social movements. Additionally, fashion trends and beauty standards perpetuated by the media and fashion industry can impact individuals' self-esteem, body image, and sense of belonging, contributing to broader discussions about representation, diversity, and inclusivity in the fashion world.</p>
         </div>
         <div className='mt-16 mb-14'>
-            <p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.</p>
+            <p>Furthermore, fashion serves as a driver of economic growth and innovation, encompassing a vast industry that spans design, manufacturing, retail, and marketing. Fashion designers and brands continually push the boundaries of creativity and craftsmanship, introducing new styles, materials, and technologies that shape the way people dress and consume fashion. From luxury fashion houses producing couture collections to fast-fashion retailers offering affordable, on-trend clothing, the fashion industry caters to a diverse range of tastes, preferences, and budgets, driving consumer demand and fueling global commerce.</p>
+           
+            
         </div>
 </div>
 )

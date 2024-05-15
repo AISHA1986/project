@@ -1,0 +1,13 @@
+.blog p{
+    padding-block: 15px;
+}
+
+.blog div:last-of-type > p:nth-of-type(2){
+    background-color: orange;
+    padding-inline-start: 10px;
+}
+
+.blog h2{
+    font-weight: 700;
+    font-size: 40px;
+}

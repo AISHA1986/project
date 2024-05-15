@@ -1,11 +1,12 @@
 import Image from 'next/image'
 import React from 'react'
+import Author from '../Components/Author'
 export default function page() {
   return (
     <section>
-        <div className='flex m-auto'>
-            <div>
-            <h1 className='text-3xl font-bold py-8 '>about</h1>
+        <div className='flex items-start px-8 py-10 gap-4'>
+            <div className='flex flex-col gap-y-4'>
+            <h1 className='capitalize text-3xl font-bold '>about</h1>
             <p>Welcome to Blaze Pop! We are a passionate team dedicated to bringing you the latest <br />
             and most insightful content in the world of Flexography. Our mission <br />
             is to provide our readers with a one-stop destination for all things  from AISHA informative articles to in-depth <br />
@@ -28,7 +29,7 @@ export default function page() {
             </div>
            
             </div>
-            <Image src='/project.jpg' alt='a man' width='800' height='50'/> 
+            <Image src='/family.jpg' alt='a man' width='550' height='200'/> 
         </div>
         <div className=''>
             <h2 className='font-bold text-2xl text-center py-9'>Our Story</h2>
@@ -39,6 +40,10 @@ export default function page() {
             <p className='bg-purple-500'>Simple and Affordable</p>
             <p className='bg-red-300'>Standard in Industry Knowledge</p>
         </div>
+
+        <section>
+            <Author/>
+        </section>
 
         
 </section>

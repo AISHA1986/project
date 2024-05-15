@@ -12,7 +12,7 @@ export default function Navbar() {
     <nav className=" bg-blue-50 text-black h-[10vh] flex justify-between text-3xl capitalize m-1 p-2">
         
         <div className="flex items-center gap-2" >
-            <Image src="/A&G.png" width="50" height="50"/>
+            <Image src="/A&G.png" width="50" height="50" alt="My Logo"/>
         
             <p>AISHA</p>
         </div>

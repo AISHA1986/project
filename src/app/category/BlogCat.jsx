@@ -1,13 +1,15 @@
 import Link from "next/link"
 import { items } from "./page"
 
-const itemCat = items.map(cat => (
+const uniqueCat = [...new Set(items.map(item => item.category))]
+
+const itemCat = uniqueCat.map(cat => (
     <h2 key={cat.id} className="border-2 p-4">
-        <Link href={`/category/${cat.category}`} title={cat.category}>
-            {cat.category}
+        <Link href={`/category/${cat}`} className="text-white" title={cat}>
+            {cat}
         </Link>
     </h2>
-)).slice(0,7)
+))
 export default function BlogCat() {
   return (
     <div className="md:w-[60%] sm:w-4/5 w-full m-auto py-8 bg-orange-700 ">

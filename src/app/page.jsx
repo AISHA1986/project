@@ -18,7 +18,7 @@ export default function page() {
            <CiBookmark className='rounded-full border-2 border-white bg-blue-400'/>
            </div>
            <div className="absolute bottom-0 left-0 text-white mb-2">
-           <p className='font-bold text-6xl ml-44 h-32 w-15 bg-black-300 '>Exploring the vibrant world <br />  of great taste</p>
+           <p className='font-bold text-6xl ml-44 h-32 w-15 bg-black-300 '>unleash<br />the great taste</p>
            </div>
            </Link>
         </div>
@@ -79,7 +79,7 @@ export default function page() {
             <Link href='/food2'>
             <Image src='/food3.jpg' alt='fun' width='800' height='400' className='h-[480px] hover:scale-110 transition-all'/>
             <div className="relative bottom-0 left-0 text-black-400 mb-2">
-              <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>Inclusive Education- Meeting the Needs of <br /> Every Student</span>
+              <span className='font-bold bg-white direction-1tr whitespace-pre-wrap break-clone mb-0 p-4 text-base leading-7 inline'>unleash the greate taste <br /></span>
               <div className="text-black p-4 text-xs leading-3 inline-block absolute bottom-[460px] left-5 box-border unicode-isolate bg-fuchsia-400">food</div>
               <div className='flex gap-4'>
                 <p></p>
@@ -236,7 +236,7 @@ export default function page() {
 
           <div>
             <Link href='https://webflow.com/templates/designers/webestica'>
-            <Image src='/education1.jpg' alt='/' width='400' height='600' className='h-[200px] w-[80%] ml-[140px] mt-24 mb-24'/>
+            <Image src='/art.jpg' alt='/' width='400' height='800' className='h-[200px] w-[80%] ml-[140px] mt-24 mb-24'/>
             </Link>
           </div>
     </section>
