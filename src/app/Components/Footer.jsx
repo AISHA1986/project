@@ -1,6 +1,8 @@
 import Catlinks from "./CatLinks"
 import SocialIcons from "./SocialIcons"
 import PageLinks from "./PageLinks"
+import Link from "next/link"
+import Category from "../category/page"
 
 
 export default function Footer() {
@@ -20,15 +22,15 @@ export default function Footer() {
   <div>
      <h2 className="ml-5 text-lg ">Categories</h2>
      <div className="m-4">
-        <Catlinks title="Food" bg="bg-pink-700"/>
-        <Catlinks title="Entertainment" bg="bg-yellow-700"/><br/>
-        <Catlinks title="Home and Decor" bg="bg-blue-700"/>
-        <Catlinks title="Education" bg="bg-red-700"/><br/>
-        <Catlinks title="Travel" bg="bg-yellow-700"/>
-        <Catlinks title="Technology" bg="bg-blue-700"/><br/>
-        <Catlinks title="Fashion" bg="bg-red-700"/>
+      <Catlinks title="Food" bg="bg-pink-700"/><br/>
+      <Catlinks title="Entertainment" bg="bg-yellow-700"/><br/>
+      <Catlinks title="Home and Decor" bg="bg-blue-700"/>
+      <Catlinks title="Education" bg="bg-red-700"/><br/>
+      <Catlinks title="Travel" bg="bg-yellow-700"/>
+      <Catlinks title="Technology" bg="bg-blue-700"/><br/>
+      <Catlinks title="Fashion" bg="bg-red-700"/>
      </div>
-
+    
   </div>
 
    <div className="inline-block">
