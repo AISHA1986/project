@@ -17,7 +17,7 @@ export default function page() {
         <div>
             <h2 className='font-bold mt-10 mb-4'>Up-coming tech bloggers, you need to watch </h2>
             <p>
-The technology of computers is a vast field that encompasses hardware, software, and the interaction between them. Here's a brief overview.
+The technology of computers is a vast field that encompasses hardware, software, and the interaction between them. Here is a brief overview.
 Hardware: This includes all the physical components of a computer system. Key components include:
 Central Processing Unit (CPU): The brain of the computer, responsible for executing instructions.
 Memory (RAM): Provides temporary storage for data and instructions that the CPU needs while processing.
@@ -59,7 +59,7 @@ The history of computers is a testament to human ingenuity and innovation, with 
         </div>
         <div className='mt-20'>
             <h2 className='font-bold'>10 tell-tale signs you need to get a new tech</h2>
-            <p className='mt-4'>Certainly! Let's delve deeper into various aspects of computer technology:
+            <p className='mt-4'>Certainly! Lets delve deeper into various aspects of computer technology:
 
 Processor Architecture:
 Central Processing Units (CPUs) are the heart of computer systems, executing instructions and performing calculations.

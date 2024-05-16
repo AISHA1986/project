@@ -21,7 +21,7 @@ export default function page() {
         <div className='mt-14'>
             <ol>
                 <li><span className='font-bold'>.</span> importance of entertaiment</li>
-                <li><span className='font-bold'>.</span> Emotional Well-being: Entertainment serves as a source of joy, relaxation, and emotional fulfillment, contributing to individuals' overall well-being and mental health..</li>
+                <li><span className='font-bold'>.</span> Emotional Well-being: Entertainment serves as a source of joy, relaxation, and emotional fulfillment, contributing to individuals overall well-being and mental health..</li>
                 <li><span className='font-bold'>.</span> Social Connection: Entertainment facilitates social bonding and community engagement, fostering connections and relationships among individuals</li>
                 <li><span className='font-bold'>.</span> Cultural Enrichment: Entertainment plays a vital role in preserving and transmitting cultural heritage, traditions, and values across generations</li>
             </ol>

@@ -16,7 +16,7 @@ export default function page() {
         </div>
         <div>
             <h2 className='font-bold mt-10 mb-4'>Up-coming tech bloggers, you need to watch </h2>
-            <p>Modern technology encompasses a vast array of advancements across various fields, shaping how we live, work, communicate, and interact with the world. Here's an overview of some key areas of modern technology</p>
+            <p>Modern technology encompasses a vast array of advancements across various fields, shaping how we live, work, communicate, and interact with the world. Here is an overview of some key areas of modern technology</p>
         </div>
         <div className='mt-14'>
             <ol>
@@ -50,7 +50,7 @@ Quantum computing harnesses the principles of quantum mechanics to perform compu
             <p className='mt-4'>Technology has become deeply intertwined with every aspect of human society, bringing about numerous benefits across various domains. Here are some ways in which technology benefits human society</p>
         </div>
         <div className='mt-14 bg-yellow-300 p-12'>
-            <p>Overall, technology has the potential to significantly improve the quality of life, address societal challenges, and create a more equitable and sustainable future for humanity. However, it's essential to consider ethical, social, and environmental implications and ensure that technology is used responsibly and for the benefit of all.</p>
+            <p>Overall, technology has the potential to significantly improve the quality of life, address societal challenges, and create a more equitable and sustainable future for humanity. However, itis essential to consider ethical, social, and environmental implications and ensure that technology is used responsibly and for the benefit of all.</p>
         </div>
         <div className='mt-16 mb-14'>
             <p>Environmental Sustainability:
