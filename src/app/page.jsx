@@ -24,12 +24,12 @@ export default function page() {
         </div>
         <nav>
         <div className='flex mt-10 justify-center items-center gap-8'>
-            <p className='py-3 px-4 rounded-md border-2 border-red-300'><Link href={'category/home-and-decor'}>home-and-decor</Link></p>
-            <p className='py-3 px-4 rounded-md border-2 border-purple-300'><Link href={'category/food'}>food</Link></p>
-            <p className='py-3 px-4 rounded-md border-2 border-green-300'><Link href={'category/food'}>entertaiment</Link></p>
+            <p className='py-3 px-4 rounded-md border-2 border-red-300'><Link href={'category/home-and-decor'}>Home-and-Decor</Link></p>
+            <p className='py-3 px-4 rounded-md border-2 border-purple-300'><Link href={'category/food'}>Food</Link></p>
+            <p className='py-3 px-4 rounded-md border-2 border-green-300'><Link href={'category/food'}>Entertaiment</Link></p>
             <p className='py-3 px-4 rounded-md border-2 border-yellow-400'><Link href={'category/food'}>Fashion</Link></p>
-            <p className='py-3 px-4 rounded-md border-2 border-blue-400'><Link href={'category/food'}>tech</Link></p>
-            <p className='py-3 px-4 rounded-md border-2 border-black'><Link href={'category/food'}>travel</Link></p>
+            <p className='py-3 px-4 rounded-md border-2 border-blue-400'><Link href={'category/food'}>Tech</Link></p>
+            <p className='py-3 px-4 rounded-md border-2 border-black'><Link href={'category/food'}>Travel</Link></p>
             <p className='py-3 px-4 rounded-md border-2 border-red-300'><Link href={'category/food'}>Education</Link></p>
         </div>
         </nav>
