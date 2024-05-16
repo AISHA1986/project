@@ -28,20 +28,20 @@ export default function BlogSlug({params}) {
     </div>
 
     <div>
-      {filteredCat[0].descriptions1.map(para => (
-        <p>{para}</p>
+      {filteredCat[0].descriptions1.map((para,index) => (
+        <p key={index}>{para}</p>
       ))}
     </div>
 
     <div>
-      {filteredCat[0].descriptions2.map(para => (
-        <p>{para}</p>
+      {filteredCat[0].descriptions2.map((para,index) => (
+        <p key={index}>{para}</p>
       ))}
     </div>
 
     <div>
-      {filteredCat[0].descriptions3.map(para => (
-        <p>{para}</p>
+      {filteredCat[0].descriptions3.map((para,index) => (
+        <p key={index}>{para}</p>
       ))}
     </div>
 
@@ -52,8 +52,8 @@ export default function BlogSlug({params}) {
     </div>
 
     <div>
-      {filteredCat[0].descriptions4.map(para => (
-        <p>{para}</p>
+      {filteredCat[0].descriptions4.map((para,index) => (
+        <p key={index}>{para}</p>
       ))}
     </div>
 </div>
