@@ -12,10 +12,10 @@ export default function page() {
             <Link href='/Food'>
           <Image src='/potato.jpg' alt='a fashion' width='1500' height='400' className='w-[80%] ml-[140px] mt-24 h-[700px]  lg:grid-cols-1'/>
            <div className="absolute top-0 left-0 p-48 text-black">
-           <p className='h-7 w-15 bg-red-300 font-bold'>Food</p>
+           <p className='p-4 bg-red-300 font-bold'>Food</p>
            </div>
            <div className="absolute top-0 right-0 p-48 text-4xl" >
-           <CiBookmark className='rounded-full border-2 border-white bg-blue-400'/>
+           <CiBookmark className='rounded-full border-2 border-white bg-blue-400 p-4'/>
            </div>
            <div className="absolute bottom-0 left-0 text-white mb-2">
            <p className='font-bold text-6xl ml-44 h-32 w-15 bg-black-300 '>unleash<br />the great taste</p>
