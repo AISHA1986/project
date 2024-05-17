@@ -22,13 +22,13 @@ export default function Footer() {
   <div>
      <h2 className="ml-5 text-lg ">Categories</h2>
      <div className="m-4">
-      <Catlinks title="Food" bg="bg-pink-700"/><br/>
-      <Catlinks title="Entertainment" bg="bg-yellow-700"/><br/>
-      <Catlinks title="Home and Decor" bg="bg-blue-700"/>
-      <Catlinks title="Education" bg="bg-red-700"/><br/>
-      <Catlinks title="Travel" bg="bg-yellow-700"/>
-      <Catlinks title="Technology" bg="bg-blue-700"/><br/>
-      <Catlinks title="Fashion" bg="bg-red-700"/>
+      <Catlinks title="Food" bg="bg-pink-700" link='/Food'/><br/>
+      <Catlinks title="Entertainment" bg="bg-yellow-700" link='/entertaiment'/><br/>
+      <Catlinks title="Home and Decor" bg="bg-blue-700" link='/home-and-decor'/>
+      <Catlinks title="Education" bg="bg-red-700" link='/education'/><br/>
+      <Catlinks title="Travel" bg="bg-yellow-700" link='/travel'/>
+      <Catlinks title="Technology" bg="bg-blue-700" link='/tech'/><br/>
+      <Catlinks title="Fashion" bg="bg-red-700" link='/fashion'/>
      </div>
     
   </div>
@@ -38,13 +38,11 @@ export default function Footer() {
 
       <div className="flex items-start gap-10 ">
          <ol>
-            <PageLinks title='Home'/>
-            <PageLinks title='Home 2'/>
-            <PageLinks title='Blog'/>
-            <PageLinks title='Author'/>
-            <PageLinks title='Pricing'/>
-            <PageLinks title='About us'/>
-            <PageLinks title='Subscribe'/>
+            <PageLinks title='Home' link='/'/>
+            <PageLinks title='Blog' link='/'/>
+            <PageLinks title='Author' link='/'/>
+            <PageLinks title='About us'link='/'/>
+            <PageLinks title='Subscribe'link='/'/>
             <PageLinks title='Privacy Policy'/>
 
            </ol>
@@ -57,7 +55,7 @@ export default function Footer() {
            <PageLinks title='Coming Soon'/>
            <PageLinks title='Link In Bio'/>
            <PageLinks title='Password Protected'/>
-           <PageLinks title='Error 404'/>
+           
 
 
       
